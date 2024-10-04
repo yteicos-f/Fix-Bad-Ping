@@ -1,0 +1,49 @@
+# v1.4 [40]
+- overall code reworked
+- improved stability
+- use always latest version to have best ping while gaming
+- fixed an issue with latest pubg client
+- several bugs fixed and improvmenta made
+-----
+# v1.3 [30]
+- reworked script
+- added new Ping Test Menu & DNS Changer
+- added custom domain/dns ping testing
+- run 'su -c PT' Open up the Menu
+- how to check on a custom Domain/DNS server 
+- it is described in the Menu!
+- Open up the Menu and read how to do it
+- minor bugs fixed & improvments made
+-----
+# v1.2 [20]
+- fixed several bugs (Thanks for mention me that)
+- fixed log issue
+- several changes made
+- fixed ping drop (caused by last version)
+- adjusted Buffersize 
+- several net tweaks reworked and tested
+- minor fixes and improvments made
+-------
+-# v1.1 [16000]
+- Created & Added new Logo
+- Added Log file (/storage/emulated/0/Android/STRPxPS.log)
+- Decreased time of execution after boot
+- Added several tweaks to improve Performance on wifi or mobile data connection
+- Improved ping stabilizer (ingame)
+- Added Net Speed Enhancer
+- Changed and adjusted overall buffersize (also for low end devices balanced)
+- anow you will have a better and stable connection
+- No matter if it's ingame or else where
+- Minor bugs fixed (incl. ping drop for some users)
+- Several improvments made
+- Added new Toast message in Statusbar > Removed STRP Toast app
+-----
+## v1.0 [15000]
+------
+- Changed DNS (Faster Internet)
+- Changed wifi Scan interval 
+- Changed Data Retry Config
+- Changed whole TCP Tweaks more Powerfull!
+- Changed TCP Buffersize
+- Other misc's what not get showed here to keep it safe from Kangers !
+------
